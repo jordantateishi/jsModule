@@ -1,12 +1,9 @@
 # Overview
-
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 A quick demonstration of the javascript language. File contains multiple javascript functions that demonstrate a different use such as displaying output, working with arrays, recursion, and npm.
 
 The purpose was to create a demonstration of javascript and some simple but common uses of the language.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/sHPrMGb31Pc)
 
 # Development Environment
 
